@@ -51,6 +51,10 @@ Total pixels = 1920 × 1080 = 2,073,600
 2,073,600 shots → 2,073,600 independent quantum colors
 → arranged row by row into a 1080-row × 1920-column image
 
+<img width="1126" height="665" alt="5" src="https://github.com/user-attachments/assets/7ffa1f4d-cfd6-467e-aee1-9405f03d97e9" />
+<img width="483" height="390" alt="6" src="https://github.com/user-attachments/assets/0dbfe907-5341-4903-ad51-cc19edb26726" />
+
+
 
 Bit order follows Qiskit's default (leftmost character = most significant bit). The mapping is arbitrary but fixed and fully disclosed — nothing about it is hidden.
 
